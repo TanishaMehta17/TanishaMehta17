@@ -6,34 +6,38 @@
 
 ## About Me
 
-- 🎓 Studied **Computer Science** at **Indian Institute of Information Technology Nagpur, Maharashtra**
-- 🔭 Currently working on **Full Stack Projects**
-- 🌱 Learning **Flutter** and **Spring Boot**
-- 💬 Ask me about **Flutter**, **Spring Boot**, and **NodeJs**
-- 📫 Reach me at: **tanishamehta1709@gmail.com**
-- 📄 Check out my experiences: [My Experience](https://drive.google.com/file/d/1W-HBnHWNimDc4JAp9WUr3eQJA81IT3nz/view?usp=sharing)
-- ⚡ Fun fact: My keyboard’s **‘turbo’ mode** kicks in every Friday—**weekend mode activated!**
+- 🎓 **Education**: Computer Science graduate from **[Indian Institute of Information Technology, Nagpur, Maharashtra](https://www.iiitn.ac.in/)**
+- 🔭 **Current Focus**: Developing impactful **Full Stack projects** that merge creativity with functionality
+- 🌱 **Skills in Progress**: Deep diving into **Flutter** and **Spring Boot** to enhance my app and backend development expertise
+- 💬 **What I Offer**: Always open to discussions on **Flutter**, **Spring Boot**, and **Node.js**, and how they can bring ideas to life
+- 🤝 **Collaboration Aspirations**: Excited to collaborate with innovative teams and forward-thinking companies to build scalable and user-centric applications  
+- 🚀 **Professional Goals**: Building seamless systems that solve real-world problems while collaborating with diverse minds in tech  
+- 📫 **Let’s Connect**: Drop me an email at **[tanishamehta1709@gmail.com](mailto:tanishamehta1709@gmail.com)**  
+- 📄 **Experience Snapshot**: **[My Experience](https://drive.google.com/file/d/1W-HBnHWNimDc4JAp9WUr3eQJA81IT3nz/view?usp=sharing)**  
+- ⚡ **Fun Fact**: My keyboard’s **turbo mode** kicks in every Friday—**weekend mode activated!**
+
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TanishaMehta17&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-# 📊 GitHub Stats:
+## 🏆 GitHub Trophies  
+![](https://github-profile-trophy.vercel.app/?username=TanishaMehta17&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
 
+## 📊 GitHub Stats  
 
+### 🌟 GitHub Stats  
+<div align="center" style="border: 2px solid #f39c12; border-radius: 10px; padding: 10px; margin: 10px 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=TanishaMehta17&show_icons=true&theme=radical" alt="GitHub Stats" style="border-radius: 10px;"/>
+</div>  
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+### 🔥 GitHub Streak Stats  
+<div align="center" style="border: 2px solid #e74c3c; border-radius: 10px; padding: 10px; margin: 10px 0;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanishaMehta17&theme=radical" alt="GitHub Streak Stats" style="border-radius: 10px;"/>
+</div>  
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TanishaMehta17&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 45%; min-width: 300px; max-width: 400px; margin: 10px;"/>
-
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanishaMehta17&theme=radical" alt="GitHub Streak Stats" style="width: 45%; min-width: 300px; max-width: 400px; margin: 10px;"/>
-
-  <!-- Top Languages by Repo -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanishaMehta17&layout=compact&theme=radical" alt="Top Languages" style="width: 45%; min-width: 300px; max-width: 400px; margin: 10px;"/>
-
-</div>
+### 📚 Top Languages  
+<div align="center" style="border: 2px solid #3498db; border-radius: 10px; padding: 10px; margin: 10px 0;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanishaMehta17&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 10px;"/>
+</div>  
 
 ---
 
