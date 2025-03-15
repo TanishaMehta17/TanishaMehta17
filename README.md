@@ -13,7 +13,7 @@
 - 🤝 **Collaboration Aspirations**: Excited to collaborate with innovative teams and forward-thinking companies to build scalable and user-centric applications  
 - 🚀 **Professional Goals**: Building seamless systems that solve real-world problems while collaborating with diverse minds in tech  
 - 📫 **Let’s Connect**: Drop me an email at **[tanishamehta1709@gmail.com](mailto:tanishamehta1709@gmail.com)**  
-- 📄 **Experience Snapshot**: **[My Experience](https://drive.google.com/file/d/1O0fYLy_m4jH429oZGNcecdrEG3s5kLeg/view?usp=sharing)**  
+- 📄 **Experience Snapshot**: **[My Experience](https://drive.google.com/file/d/14p9lLTGhpp09bM7oupkMirOc2Tg_XxVC/view?usp=sharing)**  
 - ⚡ **Fun Fact**: My keyboard’s **turbo mode** kicks in every Friday—**weekend mode activated!**
 
 
