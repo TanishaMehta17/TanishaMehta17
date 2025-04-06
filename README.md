@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&size=40&duration=3000&pause=1000&color=000000&center=true&vCenter=true&repeat=true&lines=Hi,+I+am+Tanisha+Mehta" alt="Typing SVG" />
-</p>
+<h1 align="center">
+ <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=2500&pause=0&center=true&vCenter=true&width=500&height=70&lines=Hi+There%F0%9F%91%8B;I+am+Tanisha+Mehta%E2%9C%A8" alt="Typing SVG" /></a>
+
+</h1>
 
 <span style="font-family: Arial, sans-serif; font-size: 18px; color: #4A4A4A;">**Software Engineer** sharing my journey and learnings in tech.</span>
 
@@ -52,11 +53,11 @@
 </div>
 
 ---
-
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TanishaMehta17&theme=rose&no-frame=true&no-bg=false&margin-w=10&exclude=Reviews" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TanishaMehta17&theme=onedark&no-frame=true&no-bg=false&margin-w=10&row=1" />
 </p>
+
  
 
 ## 📊 GitHub Stats  
