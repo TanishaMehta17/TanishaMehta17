@@ -1,109 +1,79 @@
-# Hi, I'm <span style="font-family: Arial, sans-serif; color: #FF6347;">**Tanisha Mehta** 👋</span>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&size=40&duration=3000&pause=1000&color=000000&center=true&vCenter=true&repeat=true&lines=Hi,+I+am+Tanisha+Mehta" alt="Typing SVG" />
+</p>
 
 <span style="font-family: Arial, sans-serif; font-size: 18px; color: #4A4A4A;">**Software Engineer** sharing my journey and learnings in tech.</span>
 
 ---
+<img align="right" 
+     alt="Coding" 
+     width="400" 
+     src="https://github.com/TanishaMehta17/TanishaMehta17/blob/main/original-ca87df75747127e38c2049c72e374e5b.gif?raw=true" 
+     style="float: right; margin-left: 50px; margin-top: 80px;" />
+
 
 ## About Me
 
 - 🎓 **Education**: Computer Science graduate from **[Indian Institute of Information Technology, Nagpur, Maharashtra](https://www.iiitn.ac.in/)**
 - 🔭 **Current Focus**: Developing impactful **Full Stack projects** that merge creativity with functionality
-- 🌱 **Skills in Progress**: Deep diving into **Flutter** and **Spring Boot** to enhance my app and backend development expertise
+- 🌱 **Skills in Progress**: Deep diving into **Cloud Technologies** and **Spring Boot** to enhance my app and backend development expertise
 - 💬 **What I Offer**: Always open to discussions on **Flutter**, **Spring Boot**, and **Node.js**, and how they can bring ideas to life
 - 🤝 **Collaboration Aspirations**: Excited to collaborate with innovative teams and forward-thinking companies to build scalable and user-centric applications  
-- 🚀 **Professional Goals**: Building seamless systems that solve real-world problems while collaborating with diverse minds in tech  
-- 📫 **Let’s Connect**: Drop me an email at **[tanishamehta1709@gmail.com](mailto:tanishamehta1709@gmail.com)**  
-- 📄 **Experience Snapshot**: **[My Experience](https://drive.google.com/file/d/14p9lLTGhpp09bM7oupkMirOc2Tg_XxVC/view?usp=sharing)**  
-- ⚡ **Fun Fact**: My keyboard’s **turbo mode** kicks in every Friday—**weekend mode activated!**
+- 📄 **Experience**: **[My Experience](https://drive.google.com/file/d/14p9lLTGhpp09bM7oupkMirOc2Tg_XxVC/view?usp=sharing)**
+ <br> 
+- <span>📫 <strong>Connect with Me:</strong>
+  <a href="https://www.linkedin.com/in/tanisha-mehta-a0a89a256/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn" style="vertical-align:middle; margin-left: 12px;" />
+  </a>
+  <a href="https://github.com/TanishaMehta17" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30" alt="GitHub" style="vertical-align:middle; margin-left: 12px;" />
+  </a>
+  <a href="mailto:tanishamehta1709@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" alt="Gmail" style="vertical-align:middle; margin-left: 12px;" />
+  </a>
+  <a href="https://leetcode.com/u/Tanisha_Mehta/" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" width="30" alt="LeetCode" style="vertical-align:middle; margin-left: 12px;" />
+  </a>
+</span>
 
+
+
+---
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,nodejs,vscode,github,git,cpp,hibernate,postman,docker,aws,kubernetes,redis,androidstudio,figma" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=java,dart,python,javascript,typescript,express,firebase,mongodb,c,mysql,flask,kafka,spring,gcp" />
+  <span style="background-color:#1e1e2f; padding:10px; border-radius:12px; display:inline-block; margin:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
+  </span>
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=TanishaMehta17&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TanishaMehta17&theme=rose&no-frame=true&no-bg=false&margin-w=10&exclude=Reviews" />
+</p>
+ 
 
 ## 📊 GitHub Stats  
 
-### 🌟 GitHub Stats  
-<div align="center" style="border: 2px solid #f39c12; border-radius: 10px; padding: 10px; margin: 10px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanishaMehta17&show_icons=true&theme=radical" alt="GitHub Stats" style="border-radius: 10px;"/>
-</div>  
-
-### 🔥 GitHub Streak Stats  
-<div align="center" style="border: 2px solid #e74c3c; border-radius: 10px; padding: 10px; margin: 10px 0;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanishaMehta17&theme=radical" alt="GitHub Streak Stats" style="border-radius: 10px;"/>
-</div>  
-
-### 📚 Top Languages  
-<div align="center" style="border: 2px solid #3498db; border-radius: 10px; padding: 10px; margin: 10px 0;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanishaMehta17&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 10px;"/>
-</div>  
-
----
-
-## Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/tanisha-mehta-a0a89a256/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height:40px;"></a>
-  
-  <a href="https://github.com/TanishaMehta17" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="height:40px;"></a>
-  
-  <a href="mailto:tanishamehta1709@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="height:40px;"></a>
-  
-  <a href="https://leetcode.com/u/Tanisha_Mehta/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="height:40px;"></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TanishaMehta17&show_icons=true&theme=rose_pine" height="180px" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanishaMehta17&theme=rose_pine" height="180px" />
 </p>
 
----
 
-<h2 style="font-family: Arial, sans-serif; text-align: left; color: #4A4A4A;">Languages :-</h2>
-<p align="left" style="font-size: 16px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="padding-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" style="padding-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50" style="padding-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="padding-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="50" height="50" style="padding-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" style="padding-right: 10px;" />
-</p>
-
-<h2 style="font-family: Arial, sans-serif; text-align: left; color: #4A4A4A;">Frameworks:-</h2>
-<p align="left" style="font-size: 16px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="50" height="50" style="padding-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50" style="padding-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="padding-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50" style="padding-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" alt="Hibernate" width="50" height="50" style="padding-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50" style="padding-right: 10px;" />
-</p>
-
-<h2 style="font-family: Arial, sans-serif; text-align: left; color: #4A4A4A;">Databases:-</h2>
-<p align="left" style="font-size: 16px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" style="padding-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" style="padding-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" style="padding-right: 10px;" />
-</p>
-
-<h2 style="font-family: Arial, sans-serif; text-align: left; color: #4A4A4A;">Developer Tools:-</h2>
-<p align="left" style="font-size: 16px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50" style="padding-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50" height="50" style="padding-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="padding-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50" height="50" style="padding-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" style="padding-right: 10px;" />
-</p>
 
 ---
 
 
 
 
-### ✍ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-<p align="center" style="font-family: Arial, sans-serif; font-size: 14px; color: #888888;"><strong>Feel free to connect with me and explore my work!</strong></p>
+<p align="center" style="font-family: Arial, sans-serif; font-size: 14px; color: #888888;"><strong>✨Feel free to connect with me and explore my work!✨</strong></p>
 
 
